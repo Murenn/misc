@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="Piano Website.css" />
+  </head>
+
+  <body>
+   
+    <p class="header">
+      <a class="on" href="./index.html">Home</a>
+      <a href="./Lesson Plan.html">Lesson Plan</a>
+      <a href="./Contact.html">Contact</a>
+    </p>
+    
+    <p class="welcome">
+    	Welcome!
+    </p>
+    
+    <h1>
+    	About Me:
+    </h1>
+    
+    <img class="img-me" src="https://i.imgur.com/bMRn5Mo.jpg">
+    
+    <p class="hi">Hi! My name's Elise Riddle. I'm sixteen years old, and I've been teaching piano for a little more than a year. I started learning how to play the clarinet when I was nine, and moved to piano about three years ago. It's my goal to help kids grow into great musicians and learn to love music in a fun and relaxed enviornment. I work with beginners ages first grade through middle school, but I will take younger children if they have prior experience.</p>
+    
+    <hr/>
+    
+  </body>
+</html>
